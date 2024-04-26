@@ -7,7 +7,7 @@ Este é um projeto simples de lista de tarefas web com funcionalidades como adi�
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/Lucas19Alves/to-do
 
 2. Abra o arquivo index.html no seu navegador da web.
 
